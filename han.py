@@ -48,13 +48,7 @@ python han.py http://example.com --quiet
 
 # Tam profesyonel tarama
 python han.py "http://example.com/login.php" --threads 20 --timeout 15 --output scan_report.json
-
-
-
-
-
 """
-
 import requests
 import re
 import sys

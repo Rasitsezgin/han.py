@@ -1,5 +1,3 @@
-Enterprise Web Vulnerability Scanner
-
 Comprehensive vulnerability detection:
 - SQL Injection (Error, Union, Boolean, Time-based)
 - XSS (Reflected, Stored, DOM-based)

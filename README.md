@@ -4,7 +4,7 @@ Comprehensive vulnerability detection:
 - IDOR (Insecure Direct Object Reference)
 - Authentication Bypass
 - Authorization Issues
-- CSRF (Cross-Site Request Forgery)
+- CSRF (Cross-Site Request Forgery) 
 - Directory Traversal / LFI / RFI
 - Open Redirect
 - SSRF (Server-Side Request Forgery)
